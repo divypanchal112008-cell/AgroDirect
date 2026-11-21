@@ -1,0 +1,25 @@
+/* AgroDirect Custom Styles */
+.hero-banner {
+  background: linear-gradient(135deg, #1b5e20, #2e7d32, #15803d);
+}
+
+.max-w-600 {
+  max-width: 600px;
+}
+
+.stat-card {
+  transition: transform 0.2s ease;
+}
+
+.stat-card:hover {
+  transform: translateY(-4px);
+}
+
+.product-card {
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0,0,0,0.08) !important;
+}

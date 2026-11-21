@@ -1,0 +1,12 @@
+{
+  "name": "agrodirect",
+  "version": "1.0.0",
+  "description": "AgroDirect - Farmer-to-Consumer Organic Marketplace (Practical 12, 26DCS064)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
